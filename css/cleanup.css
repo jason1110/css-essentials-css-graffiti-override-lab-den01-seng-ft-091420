@@ -4,8 +4,10 @@
 
 div#wall #tag-2 {display: none;}
 
-body div#wall divtag-3.slick {display: none;}
+body div#wall div#tag-3.slick {display: none;}
 
 div#wall div.parent div#tag-4 {display:none;}
+
+div#wall div.parent div#tag-5.slick {display:none;}
 
 div#wall div.parent div#tag-5.slick {display:none;}
